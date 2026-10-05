@@ -1,3 +1,4 @@
+```mermaid
 classDiagram
     class BonusRecord {
         +double Amount
@@ -68,3 +69,4 @@ classDiagram
     Employee <|-- SalariedEmployee : Inheritance
     Employee <|-- HourlyEmployee : Inheritance
     Employee <|-- SalesEmployee : Inheritance
+```
